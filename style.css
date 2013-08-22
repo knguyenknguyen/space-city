@@ -58,3 +58,17 @@ h1 a { color: #333;}
 
 .gray { color: #999; }
 
+/* Custom */
+
+.tb {
+	display: block;
+	background-color: #68ddab;
+	border: 0;
+	outline: 0;
+	height: 8px;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
