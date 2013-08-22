@@ -7,18 +7,21 @@ body {
   color: #333;
   font-size: 100%;
   line-height: 1.75;
-  font-family: 'Whitney SSm A', 'Whitney SSm B', Helvetica, sans-serif;
+  font-family: 'Whitney SSm A', 'Whitney SSm B', Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 { line-height: 1.25; }
 h1, .h1 {
-  font-size: 32px;
+  font-size: 24px;
   margin-bottom: 32px;
+  text-transform: uppercase;
 }
 h2, .h2, h3, .h3, h4, h5, h6 { 
   font-size: 24px;
   margin-bottom: 16px;
+  font-family: 'Whitney SSm A', 'Whitney SSm B', Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 p, .p {
   font-size: 18px;
