@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Space City</title>
+		<description>Looking at future places</description>
+		<link>http://knguyenknguyen.github.io/space-city/</link>
+		<atom:link href="http://knguyenknguyen.github.io/space-city//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Number One</title>
+				<description>&lt;p&gt;Every tweet has associated with it 33 discrete data points. There is, of course, the tweet itself, but most of those data points are actually pretty worthless when you scale them: user&amp;#8217;s wallpaper and avatar, even a user&amp;#8217;s name doesn&amp;#8217;t mean anything in aggregate. But perhaps the most powerful thing that comes with each tweet is location data. For users who have it turned on (and I imagine a majority do), Twitter tracks the longitude and latitude from where the tweet was posted.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I needed a place to organize all of my reading and research. I&amp;#8217;m better at formalizing ideas when I&amp;#8217;ve written them down, rather than yelling them at someone after I&amp;#8217;ve had a few beers.&lt;/li&gt;
+
+&lt;li&gt;I wanted to build a site with GitHub/Jekyll. (I am learning so much about version control like, for example, that I have no idea how it works.)&lt;/li&gt;
+&lt;/ul&gt;</description>
+				<pubDate>Wed, 21 Aug 2013 00:00:00 -0400</pubDate>
+				<link>http://knguyenknguyen.github.io/space-city//year/month/day/title.html</link>
+				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city//year/month/day/title.html</guid>
+			</item>
+		
+			<item>
+				<title>First Post</title>
+				<description>&lt;p&gt;Oh just testing some things. It&amp;#8217;s nice that I can write in iA Writer. &lt;em&gt;Real&lt;/em&gt; nice.&lt;/p&gt;</description>
+				<pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
+				<link>http://knguyenknguyen.github.io/space-city//year/month/day/title.html</link>
+				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city//year/month/day/title.html</guid>
+			</item>
+		
+	</channel>
+</rss>

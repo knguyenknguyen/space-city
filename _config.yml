@@ -2,8 +2,8 @@ name: "Space City"
 description: "Looking at future places"
 author: "Kevin Nguyen"
 
-url: "http://knguyenknguyen.github.io/space-city/"
+url: "http://knguyenknguyen.github.io/space-city"
 
 exclude: [README.md, Rakefile]
 paginate: 16
-permalink: /:title
+permalink: /year/month/day/title.html
