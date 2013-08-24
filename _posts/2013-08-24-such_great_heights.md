@@ -19,12 +19,12 @@ I first learned about it from a [short video by *Vocativ*](http://www.youtube.co
 <div class="pure-g">
     <div class="pure-u-1-2">
 
-![Torre de David]({{ site.url }}/images/torre-de-david02.jpg)
+<img src="{{ site.url }}/images/torre-de-david02.jpg" />
 
 		</div>
 		<div class="pure-u-1-2">
 
-![Torre de David]({{ site.url }}/images/torre-de-david03.jpg)
+<img src="{{ site.url }}/images/torre-de-david03.jpg" />
 
 		</div>
 </div>
