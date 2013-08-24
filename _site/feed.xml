@@ -3,8 +3,42 @@
 	<channel>
 		<title>Space City</title>
 		<description>Looking at future places</description>
-		<link>http://knguyenknguyen.github.io/space-city/</link>
-		<atom:link href="http://knguyenknguyen.github.io/space-city//feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://knguyenknguyen.github.io/space-city</link>
+		<atom:link href="http://knguyenknguyen.github.io/space-city/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Such Great Heights</title>
+				<description>&lt;p&gt;Behold the world&amp;#8217;s tallest slum: Torre de Davíd in Caracas, Venezuela. The massive skyscraper was planned as a symbol of the country&amp;#8217;s financial future; after the banking crisis in 1994, it became a metaphor for financial ruin. The unfinished structure — the third-tallest building in the country — loomed over the city, completely vacant, for over a decade, until one day people decided to move in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&#39;Torre de David&#39; src=&#39;http://knguyenknguyen.github.io/space-city/images/torre-de-david.jpg&#39; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#39;http://nymag.com/homedesign/urbanliving/2011/caracas/&#39;&gt;From &lt;em&gt;New York Magazine&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The complex stood vacant until 2007, when a group of families led by the convict turned preacher Alexander Daza staged an orderly move-in and founded an instant vertical community. Residents policed themselves, assigned the elderly and disabled to the lower floors, and formed a cooperative to collect dues and manage the space. Today, about 625 families inhabit 28 of the tower’s 45 stories, trudging up unfinished staircases and hoping children stay away from empty elevator shafts and balconies that lack walls. Despite the dangers, the building provides a relatively safe haven in a city where, according to the U.S. State Department, travelers risk being kidnapped as soon as they leave the airport.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I first learned about it from a &lt;a href=&#39;http://www.youtube.com/watch?v=v1p9jlQUW0k&#39;&gt;short video by &lt;em&gt;Vocativ&lt;/em&gt;&lt;/a&gt; that revealed that despite the slum&amp;#8217;s reputation for being a hotbed for violence and drugs, the people who live there have formed a completely functional, self-contained community with homes and businesses. It also exists outside of the jurisdiction of the Venezuelan government, which continues to look the other way away, allowing the Torre de Davíd to operate under its own laws.&lt;/p&gt;
+
+&lt;p&gt;A third of the world lives in a slum, and likely that figure is estimated to grow to over two billion people over the next decade. Mumbai, for example, will be the world&amp;#8217;s &lt;a href=&#39;http://www.forbes.com/2008/03/19/cities-population-pollution-innovation08-cx_tvr_0319futurecities_slide_3.html&#39;&gt;second largest city by 2025&lt;/a&gt;, with over 62% of the city&amp;#8217;s population living in informal settlements. I find myself thinking about this fact over and over. It&amp;#8217;s impossible to consider the future of living spaces without thinking about slums.&lt;/p&gt;
+
+&lt;p&gt;But there&amp;#8217;s a lot to be learned from them. In a piece from 2010 for &lt;em&gt;Prospect Magazine&lt;/em&gt;, environmentalist Stewart Brand argues that the key to green cities is to &lt;a href=&#39;http://www.prospectmagazine.co.uk/magazine/how-slums-can-save-the-planet/#.UhZ-AZKshcY&#39;&gt;take lessons from informal squatter communities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The magic of squatter cities is that they are improved steadily and gradually by their residents. To a planner’s eye, these cities look chaotic. I trained as a biologist and to my eye, they look organic. Squatter cities are also unexpectedly green. They have maximum density — 1m people per square mile in some areas of Mumbai — and have minimum energy and material use. People get around by foot, bicycle, rickshaw, or the universal shared taxi.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Slums are actually astounding in the fact that they function — and in some cases, &lt;em&gt;flourish&lt;/em&gt; — without deliberate planning or organization. In a lot of ways, slums successfully pull off many principles of new urbanism: walkable areas, varieties of dwelling situations, and even a reduced cost for utilities due to intense population density. The main difference is that new urbanism is all about planning out these communities. Slums are, by definition, unplanned.&lt;/p&gt;
+
+&lt;p&gt;One has to think, though, that on some level, those in the position to plan cities and communities come from a background of a certain privilege. They are likely well meaning and highly educated, but it&amp;#8217;s hard not to see a lot of urbanism as the upper-class deciding what&amp;#8217;s best for everyone else. Perhaps there is something to be said about letting people self-organize, to allow places to grow organically.&lt;/p&gt;
+
+&lt;p&gt;Obviously I&amp;#8217;m not advocating for a world with more slums. But it was likely a bunch of wealthy men who decided to build the Torre de David in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To Read&lt;/strong&gt; + &lt;a href=&#39;http://www.amazon.com/Torre-David-Informal-Vertical-Communities/dp/3037782986/&#39;&gt;&lt;em&gt;Torre David: Informal Vertical Communities&lt;/em&gt;&lt;/a&gt; by by Alfredo Brillembourg and Hubert Klumpner&lt;/p&gt;</description>
+				<pubDate>Sat, 24 Aug 2013 00:00:00 -0400</pubDate>
+				<link>http://knguyenknguyen.github.io/space-city/2013/08/24/such_great_heights.html</link>
+				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city/2013/08/24/such_great_heights.html</guid>
+			</item>
 		
 			<item>
 				<title>Number One</title>
@@ -16,16 +50,16 @@
 &lt;li&gt;I wanted to build a site with GitHub/Jekyll. (I am learning so much about version control like, for example, that I have no idea how it works.)&lt;/li&gt;
 &lt;/ul&gt;</description>
 				<pubDate>Wed, 21 Aug 2013 00:00:00 -0400</pubDate>
-				<link>http://knguyenknguyen.github.io/space-city//year/month/day/title.html</link>
-				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city//year/month/day/title.html</guid>
+				<link>http://knguyenknguyen.github.io/space-city/2013/08/21/number_one.html</link>
+				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city/2013/08/21/number_one.html</guid>
 			</item>
 		
 			<item>
 				<title>First Post</title>
 				<description>&lt;p&gt;Oh just testing some things. It&amp;#8217;s nice that I can write in iA Writer. &lt;em&gt;Real&lt;/em&gt; nice.&lt;/p&gt;</description>
 				<pubDate>Tue, 01 Jan 2013 00:00:00 -0500</pubDate>
-				<link>http://knguyenknguyen.github.io/space-city//year/month/day/title.html</link>
-				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city//year/month/day/title.html</guid>
+				<link>http://knguyenknguyen.github.io/space-city/2013/01/01/template.html</link>
+				<guid isPermaLink="true">http://knguyenknguyen.github.io/space-city/2013/01/01/template.html</guid>
 			</item>
 		
 	</channel>
